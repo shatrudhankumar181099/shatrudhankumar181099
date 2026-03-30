@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shatrudhankumar181099&label=Profile%20views&color=0e75b6&style=flat" alt="shatrudhankumar181099" /> </p>
 
-- 🌱 I’m currently learning **Android app development**
+- 🌱 I’m **Flutter Application Developer** with hands on 1.5 year of experience.
 
 - 👨‍💻 All of my projects are available at [https://shatru.dorik.io/](https://shatru.dorik.io/)
 
